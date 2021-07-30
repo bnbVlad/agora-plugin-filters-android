@@ -2,7 +2,7 @@
 #include <chrono>
 #include <optional>
 #include <utility>
-#include <lib_yuv/libyuv.h>
+#include <libyuv.h>
 
 namespace agora::extension {
 
