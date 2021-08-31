@@ -105,9 +105,9 @@ banubaResourceManager.prepareEffect(Effect name, onEffectPrepared)
 ```
 
 [Check out example](app/src/main/java/com/banuba/sdk/agorapluginexample/MainActivity.kt)
-# Effects managing
+# Effects management
 
-To retrieve current effects use the following code:
+To retrieve currently provided trial pack of effects use the following code:
 ```kotlin
 val effects: List<ArEffect> = BanubaEffectsLoader(this).loadEffects()
 ```
